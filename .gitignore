@@ -1,0 +1,3 @@
+*.py[cd]
+*.sw[a-z]
+.ropeproject/
